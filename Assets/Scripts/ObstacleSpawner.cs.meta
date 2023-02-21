@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e397117a16bae4142a15a0612df8bd74
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Rigidbody2D: {instanceID: 0}
+  - obstaclePrefab: {fileID: 7191644311838710667, guid: f7c3fa9829b4bf44d9ee4e585ce29189, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
