@@ -961,7 +961,11 @@ MonoBehaviour:
   maxY: 4.71
   TimeBetweenSpawn: 0.1
   obstaclePrefab: {fileID: 7191644311838710667, guid: f7c3fa9829b4bf44d9ee4e585ce29189, type: 3}
+  bulletPrefab: {fileID: 83093085711155357, guid: 503c0b4b33c67ab4ebd4be5eb6ce18d1, type: 3}
+  warriorHandler: {fileID: 1276192111}
   gameObjects: []
+  obstacleInstance: {fileID: 0}
+  TimeBetweenSpawnForBullet: 0.2
 --- !u!114 &1276192114
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1012,7 +1016,11 @@ MonoBehaviour:
   maxY: 4.71
   TimeBetweenSpawn: 0.5
   obstaclePrefab: {fileID: 7191644311838710667, guid: f7c3fa9829b4bf44d9ee4e585ce29189, type: 3}
+  bulletPrefab: {fileID: 0}
+  warriorHandler: {fileID: 0}
   gameObjects: []
+  obstacleInstance: {fileID: 0}
+  TimeBetweenSpawnForBullet: 0
 --- !u!4 &1300580526
 Transform:
   m_ObjectHideFlags: 0
